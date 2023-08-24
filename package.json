@@ -1,0 +1,22 @@
+{
+  "name": "expressjs-tasks-api",
+  "version": "1.0.0",
+  "description": "Demo Tasks API with Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irembuz/expressjs-tasks-api.git"
+  },
+  "author": "irembuz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irembuz/expressjs-tasks-api/issues"
+  },
+  "homepage": "https://github.com/irembuz/expressjs-tasks-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
